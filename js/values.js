@@ -9,7 +9,7 @@ var currentTime = currentDate.getFullYear() + '_' +
      currentDate.getSeconds();
 
 
-kbValues ={
+var kbValues ={
 	projectName: 'kittenbook',
 	versionNumber: '0.0.1',
 	currentTime: new Date().getFullYear() + '-' + new Date().getMonth() + '-' + new Date().getDate() + " at " + new Date().getHours() + ":" + new Date().getMinutes() + ":" + new Date().getSeconds()
